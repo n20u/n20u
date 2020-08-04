@@ -1,20 +1,21 @@
 ### Hi there 👋
 
-#### 编程语言
-- C/C++
-- Python
-- HTML/CSS/JavaScript
+### 技术能力
+1. #### 编程语言
+    - C/C++
+    - Python
+    - HTML/CSS/JavaScript
 
-#### 计算机知识
-- 数据结构与算法
-- 计算机组成原理
-- 计算机操作系统
-- 计算机网络
+2. #### 计算机知识
+    - 数据结构与算法
+    - 计算机组成原理
+    - 计算机操作系统
+    - 计算机网络
 
-#### 软技能
-- Linux
-- Git
-- GCC/Make/CMake
+3. #### 软技能
+    - Linux
+    - Git
+    - GCC/Make/CMake
 
 ---
 - 📫 邮箱：gezhiwanhun@qq.com
